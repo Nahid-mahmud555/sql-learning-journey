@@ -1,0 +1,2 @@
+SELECT Title
+FROM Movies;
