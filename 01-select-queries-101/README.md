@@ -30,4 +30,3 @@
 - [x] Find the title and year of each film
 - [x] Find all the information about each film
 > ```
-> *Status: ✓ (Completed)*
