@@ -24,6 +24,3 @@ Here is the log of what I have learned and practiced day by day:
 3. **Run Queries:** Write and practice your `.sql` scripts using your favorite database tool or code editor.
 
 ---
-
-## 🏷️ Topics / Tags
-`sql` • `sql-queries` • `interview-preparation` • `database` • `sql-practice` • `backend` • `sql-learning`
