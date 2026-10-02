@@ -1,0 +1,3 @@
+SELECT *
+FROM Movies
+WHERE ID = 6 ;
