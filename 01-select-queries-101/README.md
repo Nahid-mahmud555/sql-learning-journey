@@ -22,49 +22,12 @@
    SELECT column_name, another_column 
    FROM table_name;
 
+## 📝 Exercise 1 — Tasks
 
-
-> ### 📝 Exercise 1 — Tasks & Solutions
-> 
-> **1. Find the title of each film**
-> ```sql
-> SELECT title 
-> FROM movies;
-> ```
-> *Status: ✓ (Completed)*
-> 
-> ---
-> 
-> **2. Find the director of each film**
-> ```sql
-> SELECT director 
-> FROM movies;
-> ```
-> *Status: ✓ (Completed)*
-> 
-> ---
-> 
-> **3. Find the title and director of each film**
-> ```sql
-> SELECT title, director 
-> FROM movies;
-> ```
-> *Status: ✓ (Completed)*
-> 
-> ---
-> 
-> **4. Find the title and year of each film**
-> ```sql
-> SELECT title, year 
-> FROM movies;
-> ```
-> *Status: ✓ (Completed)*
-> 
-> ---
-> 
-> **5. Find all the information about each film**
-> ```sql
-> SELECT * 
-> FROM movies;
+- [x] Find the title of each film
+- [x] Find the director of each film
+- [x] Find the title and director of each film
+- [x] Find the title and year of each film
+- [x] Find all the information about each film
 > ```
 > *Status: ✓ (Completed)*
