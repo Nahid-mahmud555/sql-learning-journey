@@ -1,4 +1,4 @@
-# 📁 Day 01: SQL Lesson 1 - SELECT Queries 101
+
 
 #  Day 01: SQL Lesson 1 - SELECT Queries 101
 
