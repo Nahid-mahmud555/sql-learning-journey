@@ -32,7 +32,7 @@ Today's practice focuses on handling unique results, sorting data, and limiting 
 | 12 | Cars 2              | John Lasseter  | 2011 | 120            |
 | 13 | Brave               | Brenda Chapman | 2012 | 102            |
 | 14 | Monsters University | Dan Scanlon    | 2013 | 110            |
-| 87 | WALL-G              | Brenda Chapman | 2042 | 97             |
+| 15 | WALL-G              | Brenda Chapman | 2042 | 97             |
 
 ---
 
