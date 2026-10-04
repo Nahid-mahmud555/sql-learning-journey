@@ -1,4 +1,4 @@
-# SQL Learning Journey - Day 3: Queries with Constraints (Part 2)
+# SQL Learning Journey - Day 3: Queries with Constraints 
 
 Welcome to **Day 3** of my SQL learning journey.
 
