@@ -61,7 +61,7 @@ Here is the log of what I have learned and practiced day by day:
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/your-username/sql-interview-practice.git
+      git clone https://github.com/Nahid-mahmud555/sql-learning-journey.git
    ```
 
 3. **Practice Daily**
