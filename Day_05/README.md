@@ -9,6 +9,13 @@ This lesson covers the fundamental concepts and basic SQL operations needed befo
 
 ---
 
+## Hands-On SQL Practice
+
+Practiced writing and executing SQL queries to build a strong foundation in database operations.
+
+![SQL Code Practice](sql_code.png)
+
+
 ## Table of Contents
 
 - [1. What Is a Database?](#1-what-is-a-database)
