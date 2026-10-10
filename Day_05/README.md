@@ -668,7 +668,7 @@ Always check whether the query answers the actual question.
 
 ## 15. Complete Practical Example
 
-This example combines the basic operations covered in Day 01.
+This example combines the basic operations covered in Day 05.
 
 ### Step 1: Create a database
 
@@ -982,7 +982,7 @@ Q10: _____
 
 ---
 
-## 19. Day 01 Summary
+## 19. Day 05 Summary
 
 SQL Lesson 01 established the foundation for working with relational databases.
 
