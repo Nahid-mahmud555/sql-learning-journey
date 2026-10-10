@@ -1,7 +1,7 @@
 # SQL Learning Journey — Day 05
 ## Database Fundamentals: Database, Table, Row, Column 
 
-Welcome to **Day 01 of my SQL Learning Journey**.
+Welcome to **Day 05 of my SQL Learning Journey**.
 
 Today, I started learning SQL from the absolute basics. Instead of memorizing commands, my goal was to understand how databases store information, how tables organize data, and how SQL helps us insert and retrieve records.
 
