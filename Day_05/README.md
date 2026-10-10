@@ -1,5 +1,5 @@
-# SQL Learning Journey — Day 01
-## Database Fundamentals: Database, Table, Row, Column & Basic SQL
+# SQL Learning Journey — Day 05
+## Database Fundamentals: Database, Table, Row, Column 
 
 Welcome to **Day 01 of my SQL Learning Journey**.
 
