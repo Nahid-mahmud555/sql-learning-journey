@@ -36,7 +36,7 @@ Practiced writing and executing SQL queries to build a strong foundation in data
 - [16. What I Learned](#16-what-i-learned)
 - [17. Practice Questions](#17-practice-questions)
 - [18. Advanced Scenario-Based MCQ Examination](#18-advanced-scenario-based-mcq-examination)
-- [19. Day 01 Summary](#19-day-01-summary)
+- [19. Day 05 Summary](#19-day-01-summary)
 
 ---
 
