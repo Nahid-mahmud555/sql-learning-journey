@@ -13,7 +13,7 @@ This lesson covers the fundamental concepts and basic SQL operations needed befo
 
 Practiced writing and executing SQL queries to build a strong foundation in database operations.
 
-![SQL Code Practice](sql_code.png)
+![SQL Code Practice](sql.png)
 
 
 ## Table of Contents
