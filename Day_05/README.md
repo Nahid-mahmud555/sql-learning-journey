@@ -998,4 +998,17 @@ The most important concepts to remember are:
 
 ---
 
+
+## Quiz Achievement — SQL Fundamentals
+
+**Score: 20/20 (100%)**
+
+Successfully completed the advanced scenario-based MCQ examination covering SQL fundamentals, including databases, tables, rows, columns, data types, `INSERT`, `SELECT`, `WHERE`, query results, and basic database design concepts.
+
+This result reflects my understanding of the fundamental concepts covered in SQL Lesson 01.
+
+![SQL Quiz Results — Fundamentals Strong](Quiz%20Results_%20Fundamentals%20Strong.png)
+
+
+
 *This README documents my personal learning progress and practical exercises for SQL Lesson 01.*
